@@ -31,5 +31,11 @@ http://podsix.org/articles/pimodem/
 # Specific goals:
 * The goal is to design a system that supports multiple types of vintage Z80 computers and multiple types of bidirectional connections.
 
+# Current status Oct 2020:
+Gathering ideas and gauging interest to see if anyone thinks it's a good idea, to see who might be interested to participate
+
+
+
+
 
 
